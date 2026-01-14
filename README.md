@@ -15,7 +15,7 @@
 
 然后访问127.0.0.1:5001/query_payment 可以看到所有订单
 
-格式示例:
+# 格式示例:
 
 {"records":[{"actual_amount":"10.00","order_id":"debug_test_1768392333","payer_memo":"[\u8c03\u8bd5] 2026-01-14 20:05:33 | \u7528\u6237\u5907\u6ce8: 12345","payment_time":"2026-01-14 20:05:33","user_memo":"12345"}],"status":"success","total_count":1}
 
